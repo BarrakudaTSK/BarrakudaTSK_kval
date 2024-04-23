@@ -12,7 +12,9 @@ ip (Client - 2.3.4.0-3) / defaul gateway 2.3.4.5 / maska 255.255.255.224
 
 
 Выполнить в Net1 - Open
+
 Заходим в A7 - SOFT - ____000 - SERVER - PACKEDJ - VISUAL C / Ребут окна
+
 Заходим в A7 - SOFT - ____000 - SERVER - PACKEDJ - SQL второй файл и лучше выложить на рабочий стол
   - Named (WINNCCSQL)
   - поставить Автоматический тип
