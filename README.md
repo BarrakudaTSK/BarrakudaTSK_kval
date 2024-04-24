@@ -1,5 +1,9 @@
 # BarrakudaTSK_kval
 
+https://www.youtube.com/watch?v=603pRVXm654
+
+https://youtu.be/jxWhf9cxrTI
+
 Этапы:
 1. Везде установить visual
 2. Sql na net1 - open
